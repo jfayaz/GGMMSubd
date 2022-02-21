@@ -26,12 +26,12 @@ This tool, named as Generalized Ground Motion Model for Subduction environment (
     Conditional Period (T*) 
 
         IM	Input for T*
-
-        I_(a,geom)	-3
-
-        D_(5-95,geom)	-2
-
-        PGV_geom	-1
+      
+        PGV_geom	-3
+	
+		D_(5-95,geom)	-2
+	 
+		I_(a,geom)	-1
 
         PGA_geom	0
 
